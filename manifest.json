@@ -1,0 +1,13 @@
+﻿{
+   "Name": "HarvestWatcher",
+   "Author": "Camron Weeks",
+   "Version": {
+      "MajorVersion": 0,
+      "MinorVersion": 0,
+      "PatchVersion": 0,
+      "Build": ""
+   },
+   "Description": "Watcher of your Harvest.",
+   "UniqueID": "cweeks.harvestwatcher",
+   "EntryDll": "harvestwatcher.dll"
+}
